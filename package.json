@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "vetdoctor",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,20 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
+=======
+  "name": "pet-care-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+>>>>>>> 0ed70e0f007f3c3788304c8a51869c012c88de2e
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,7 +30,12 @@
   },
   "eslintConfig": {
     "extends": [
+<<<<<<< HEAD
       "react-app"
+=======
+      "react-app",
+      "react-app/jest"
+>>>>>>> 0ed70e0f007f3c3788304c8a51869c012c88de2e
     ]
   },
   "browserslist": {
